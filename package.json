@@ -1,0 +1,12 @@
+{
+  "name": "html-to-pdf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "node main ."
+  },
+  "dependencies": {
+    "puppeteer": "^21.7.0"
+  }
+}
